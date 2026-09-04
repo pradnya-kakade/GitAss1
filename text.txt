@@ -1,0 +1,39 @@
+
+Welcome to HealthCare Portal
+
+Your Health, Our Priority
+
+Find doctors, order medicines, and get healthcare services easily from one place.
+
+Our Services
+
+1. Find a Doctor
+   Search for doctors based on specialization and location.
+
+2. Order Medicines
+   Browse medicines and place your order online.
+
+3. Ambulance Service
+   Get quick access to emergency ambulance services.
+
+4. Hospitals
+   Find nearby hospitals and healthcare centers.
+
+5. Health Information
+   Get useful information about common health conditions and wellness.
+
+Why Choose Us?
+
+* Easy to use
+* Quick and convenient
+* Wide range of healthcare services
+* Secure and reliable
+* Available anytime
+
+Contact Us
+
+Email: [healthcare@example.com](mailto:healthcare@example.com)
+
+Phone: +91 98765 43210
+
+Thank you for choosing HealthCare Portal!
